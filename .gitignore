@@ -5,7 +5,7 @@ appsettings.json
 Database/*.bak
 Database/*.backup
 # Keep the specific backup file
-!Database/Project_Database_BackUp
+!Database/Project_Database_BackUp.bak
 # Ignore other database files
 Database/*.mdf
 Database/*.ldf
