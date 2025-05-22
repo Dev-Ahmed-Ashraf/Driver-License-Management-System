@@ -122,4 +122,40 @@ For any queries or support, please open an issue in the [GitHub repository](http
 
 ## Screenshots
 
-Check the `ScreenShots` directory for application screenshots and usage examples.
+Below are some screenshots from the application user interface:
+
+### 🔐 Authentication & User Management
+
+- ![Login Screen](ScreenShots/Login_Screen.png)
+- ![Change Password Form](ScreenShots/Change_Password_Form.png)
+- ![User Info Form](ScreenShots/User_Info_Form.png)
+- ![Manage Users Form](ScreenShots/Manage_Users_Form.png)
+
+### 👤 Driver & People Management
+
+- ![Manage People Form](ScreenShots/Manage_People_Form.png)
+- ![Manage Drivers Form](ScreenShots/Manage_Drivers_Form.png)
+
+### 📄 License Management
+
+- ![Issue License Form](ScreenShots/Issue_License_Form.png)
+- ![Renew License Form](ScreenShots/Renew_License_Form.png)
+- ![Replacement License Form](ScreenShots/Replacement_License_Form.png)
+- ![Detain License Form](ScreenShots/Detain_License_Form.png)
+- ![Release License Form](ScreenShots/Release_License_Form.png)
+- ![Detained Licenses Form](ScreenShots/DetainedLicenses_Form.png)
+- ![International Licenses Form](ScreenShots/InternationalLicenses_Form.png)
+- ![Local Licenses Form](ScreenShots/Local_Licenses_Form.png)
+- ![Licenses History Form](ScreenShots/Licenses_History_Form.png)
+
+### 🧪 Test Management
+
+- ![Schedule Test Form](ScreenShots/Schedule_Test_Form.png)
+- ![Take Test Form](ScreenShots/Take_Test_Form.png)
+- ![Manage Test Types Form](ScreenShots/Manage_TestTypes_Form.png)
+
+### ⚙️ Application Types & Dashboard
+
+- ![Manage Application Types Form](ScreenShots/Manage_AppType_Form.png)
+- ![New License Form](ScreenShots/NewLicense_Form.png)
+- ![Main Form / Dashboard](ScreenShots/Main_Form.png)
