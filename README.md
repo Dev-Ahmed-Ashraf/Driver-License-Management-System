@@ -112,7 +112,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
 ## Acknowledgments
 
-- Icons provided by Project_Icons directory
+- Icons provided by Icons directory
 - Database design and implementation
 - All contributors who have helped shape this project
 
