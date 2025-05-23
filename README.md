@@ -1,4 +1,4 @@
-# 🚗 Driver License Management System
+# 🚗 Driving License Management System
 
 A comprehensive **Windows Forms application** for managing driver licenses, applications, and related administrative tasks.  
 This system provides a robust solution for driving license authorities to manage licenses, applications, tests, and driver records efficiently.
@@ -38,7 +38,7 @@ This system provides a robust solution for driving license authorities to manage
 ### 🧪 Test Management
 
 - Test scheduling and appointments
-- Different test types (Vission, Theory, Practical)
+- Different test types (Theory, Written, Practical)
 - Test results tracking
 - Test type management
 
